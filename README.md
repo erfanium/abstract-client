@@ -1,6 +1,8 @@
 # abstract-client
 This is my personal standard to create HTTP API clients
 
+**Under development**
+
 ## Pros
 Clients that are created by this standard has these features *by default*:
 
