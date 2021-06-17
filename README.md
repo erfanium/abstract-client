@@ -4,7 +4,7 @@ This is my personal standard to create HTTP API clients
 **Under development**
 
 ## Pros
-Clients that are created by this standard has these features *by default*:
+Clients that have implemented this standard has these features *by default*:
 
 ### Standard
 Uses web-fetch api and other low-level standart stuff.
